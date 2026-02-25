@@ -1,0 +1,20 @@
+{
+  "name": "env-checker-cli",
+  "version": "1.0.0",
+  "description": ".env dosyalarını doğrulayan ve eksik değişkenleri bulan araç",
+  "main": "index.js",
+  "bin": {
+    "env-checker": "./index.js"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "validator",
+    "checker",
+    "ci-cd",
+    "devops"
+  ],
+  "author": "turkcoode",
+  "license": "MIT",
+  "homepage": "https://turkcode.net"
+}
